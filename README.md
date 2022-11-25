@@ -1,5 +1,5 @@
 # Advanced-Unix-NCTU
-2022 Advanced Programming in the UNIX Environment
+2022 Spring NCTU Advanced Programming in the UNIX Environment
 
 - HW1: Implement a 'lsof'-like program
 - HW2: Monitor File Activities of Dynamically Linked Programs
